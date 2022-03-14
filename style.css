@@ -31,7 +31,8 @@ html {
   .hover {
       border: 1px solid black;
     /* position: relative; */
-    top: -5px; /* this will raise the element */
+    /* this will raise the element */
+    top: -5px; 
     background-color: blue;
 }
 
@@ -44,7 +45,8 @@ html {
 }
 
 .btn {
-    padding: 5px;
+    margin: 5px;
+    padding: 2px;
 }
 
 
